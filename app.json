@@ -33,6 +33,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "dab76462-0188-4f0c-bd85-8f8d05dc2a56"
+      }
+    },
+    "owner": "prajwalshrimali"
   }
 }
